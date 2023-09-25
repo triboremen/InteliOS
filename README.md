@@ -1,5 +1,5 @@
 # InteliOS
-![intelios1](https://github.com/triboremen/InteliOS/assets/145564766/c13867ed-6e3c-41e4-a37b-8824482142ea)
+![intelios1](./intelios1.png)
 ![intelios2](https://github.com/triboremen/InteliOS/assets/145564766/a8289ae3-10bb-4cfd-a239-73eedba74c28)
 
 
