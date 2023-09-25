@@ -39,17 +39,12 @@ Inspirado por los scripts de Michael Bazzell, llevarlos un paso más allá y cre
 ## Actualizar Joplin y Draw.io
 Estas aplicaciones están gestionadas por el programa [AM](https://github.com/ivan-hc/AM-Application-Manager). Para actualizarlos, hay que ejecutar el comando `am -u`. De todas maneras, está contenido en el script Updates.
 
-# Ubicación de los archivos importantes
-Los scripts de las GUI están en `/opt/OSINT-Scripts`. <br />
-Las utilidades de consola están en `/usr/bin`. <br />
-Buena parte de las herramientas están escritas en Python. Éstas están contenidas en entornos virtuales, ubicados en `/virtualenvs`. <br />
-Los iconos de las herramientas están en `/usr/share/OSINT-Icons`. <br />
-Todos los accesos directos están almacenados en `/usr/share/applications`. <br />
-El navegador TOR se encuentra en `$HOME/tor-browser` o `/etc/skel/tor-browser`. <br />
-
 # Instalación
 ## Descargar ISO
 Descarga directamente la iso desde [aquí](https://mega.nz/file/F3E0iZqZ#bH5Q7X5Gz6whfarmXTl07yG7tOsd392HPrlj0jzpOtI) <br />
+
+Flashéala en un pendrive o una máquina virtual.
+
 ## Crear ISO con CUBIC
 **IMPORTANTE**: Este programa sólo funciona en Ubuntu. <br />
 Clona el repositorio. <br />
@@ -71,6 +66,14 @@ Ejecuta el script para crear la iso de InteliOS: <br />
 `cd InteliOS` <br />
 `./Instalacion.sh` <br />
 Cuando termine, dale a "Next" hasta que prepare la ISO. Una vez terminado el proceso, en la carpeta del proyecto tendrás la imagen ISO lista para flashear en un pendrive o en una máquina virtual.<br />
+
+# Ubicación de los archivos importantes
+Los scripts de las GUI están en `/opt/OSINT-Scripts`. <br />
+Las utilidades de consola están en `/usr/bin`. <br />
+Buena parte de las herramientas están escritas en Python. Éstas están contenidas en entornos virtuales, ubicados en `/virtualenvs`. <br />
+Los iconos de las herramientas están en `/usr/share/OSINT-Icons`. <br />
+Todos los accesos directos están almacenados en `/usr/share/applications`. <br />
+El navegador TOR se encuentra en `$HOME/tor-browser` o `/etc/skel/tor-browser`. <br />
 
 # ¿Por qué?
 El PC que usaba antes se me rompió y me vi obligado a utilizar uno de bajas prestaciones que no podía manejar máquinas virtuales. <br />
