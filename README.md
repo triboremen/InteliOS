@@ -1,4 +1,6 @@
 # InteliOS
+![intelios1](https://github.com/triboremen/InteliOS/assets/145564766/c13867ed-6e3c-41e4-a37b-8824482142ea)
+![intelios2](https://github.com/triboremen/InteliOS/assets/145564766/a8289ae3-10bb-4cfd-a239-73eedba74c28)
 
 ISO personalizada de Xubuntu para realizar OSINT. <br />
 Inspirado por los scripts de Michael Bazzell, llevarlos un paso más allá y crear unas GUI más completas usando [yad](https://github.com/v1cont/yad).
