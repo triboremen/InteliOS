@@ -46,7 +46,7 @@ El navegador TOR se encuentra en `$HOME/tor-browser` o `/etc/skel/tor-browser`. 
 
 # Instalación
 ## Descargar ISO
-
+Descarga directamente la iso desde [aquí]([url](https://mega.nz/file/F3E0iZqZ#bH5Q7X5Gz6whfarmXTl07yG7tOsd392HPrlj0jzpOtI))
 ## Crear ISO con CUBIC
 **IMPORTANTE**: Este programa sólo funciona en Ubuntu. <br />
 Clona el repositorio. <br />
