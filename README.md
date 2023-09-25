@@ -46,7 +46,7 @@ El navegador TOR se encuentra en `$HOME/tor-browser` o `/etc/skel/tor-browser`. 
 
 # Instalación
 ## Descargar ISO
-Descarga directamente la iso desde [aquí](https://mega.nz/file/F3E0iZqZ#bH5Q7X5Gz6whfarmXTl07yG7tOsd392HPrlj0jzpOtI)
+Descarga directamente la iso desde [aquí](https://mega.nz/file/F3E0iZqZ#bH5Q7X5Gz6whfarmXTl07yG7tOsd392HPrlj0jzpOtI) <br />
 ## Crear ISO con CUBIC
 **IMPORTANTE**: Este programa sólo funciona en Ubuntu. <br />
 Clona el repositorio. <br />
@@ -67,4 +67,6 @@ Una vez termine de prepararse el entorno, arrastra la carpeta del repositorio a 
 Ejecuta el script para crear la iso de InteliOS: <br />
 `cd InteliOS` <br />
 `./Instalacion.sh` <br />
-Cuando termine, dale a "Next" hasta que prepare la ISO. Una vez terminado el proceso, en la carpeta del proyecto tendrás la imagen ISO lista para flashear en un pendrive o en una máquina virtual.
+Cuando termine, dale a "Next" hasta que prepare la ISO. Una vez terminado el proceso, en la carpeta del proyecto tendrás la imagen ISO lista para flashear en un pendrive o en una máquina virtual.<br />
+
+# LICENCIAS
