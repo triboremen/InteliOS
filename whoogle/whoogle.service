@@ -1,0 +1,10 @@
+[Unit]
+Description=Whoogle
+
+[Service]
+Type=simple
+ExecStart=/opt/OSINT-Scripts/whoogle-script.sh
+SyslogIdentifier=whoogle
+
+[Install]
+WantedBy=multi-user.target

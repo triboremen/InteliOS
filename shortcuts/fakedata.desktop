@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=FakeData
+Categories=X-XFCE;X-Xfce-Toplevel;
+Exec=/opt/OSINT-Scripts/fakedata.sh
+Icon=/usr/share/OSINT-Icons/fakedata.png
+Terminal=false

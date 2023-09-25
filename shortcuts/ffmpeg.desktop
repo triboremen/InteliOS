@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=FFmpeg
+Categories=Videos
+Exec=/opt/OSINT-Scripts/ffmpeg/ffmpeg-menu.sh
+Icon=/usr/share/OSINT-Icons/ffmpeg.png
+Terminal=false
+Comment[es]=Basado en el script ffmpeg, esta suite proporciona varias herramientas de vídeo.

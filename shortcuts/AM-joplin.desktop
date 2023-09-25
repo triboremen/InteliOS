@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Joplin
+Exec=joplin --no-sandbox %U
+Terminal=false
+Type=Application
+Icon=/opt/joplin/icons/joplin
+StartupWMClass=Joplin
+X-AppImage-Version=2.12.16
+MimeType=x-scheme-handler/joplin;
+Comment=Joplin for Desktop
+Categories=Documentación;

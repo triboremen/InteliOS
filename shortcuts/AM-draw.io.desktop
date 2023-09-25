@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=drawio
+Exec=draw.io --no-sandbox %U
+Terminal=false
+Type=Application
+Icon=/opt/draw.io/icons/draw.io
+StartupWMClass=drawio
+X-AppImage-Version=21.6.8
+Comment=draw.io desktop
+MimeType=application/vnd.jgraph.mxfile;application/vnd.visio;
+Categories=Documentación;

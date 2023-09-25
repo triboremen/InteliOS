@@ -1,0 +1,26 @@
+# /OPT
+cd /opt
+python3 -m venv venv_whoogle --upgrade-deps
+git clone https://github.com/benbusby/whoogle-search.git
+source bin/activate
+cd whoogle-search
+pip install -r requirements.txt
+# TEST
+./run
+
+sudo nano /lib/systemd/system/whoogle.service
+#############################################################
+[Unit]
+Description=Whoogle
+
+[Service]
+Type=simple
+ExecStart=/opt/OSINT-Scripts/whoogle-script.sh
+SyslogIdentifier=whoogle
+
+[Install]
+WantedBy=multi-user.target
+##############################################################
+
+sudo systemctl daemon-reload; sudo systemctl enable whoogle; \
+sudo systemctl start whoogle

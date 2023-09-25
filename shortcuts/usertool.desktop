@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Usertool
+Categories=X-XFCE;X-Xfce-Toplevel;
+Exec=/opt/OSINT-Scripts/usertool/usertool.sh
+Icon=/usr/share/OSINT-Icons/usertool.png
+Terminal=false

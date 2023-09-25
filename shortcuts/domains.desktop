@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Rastrea-Dominios
+Categories=Dominios;
+Exec=/opt/OSINT-Scripts/dominios/domains.sh
+Icon=/usr/share/OSINT-Icons/domains.png
+Terminal=false

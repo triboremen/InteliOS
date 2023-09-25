@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Instaloader 
+Categories=X-XFCE;X-Xfce-Toplevel;
+Exec=/opt/OSINT-Scripts/instaloader.sh
+Icon=/usr/share/OSINT-Icons/instaloader.png
+Terminal=false

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Updates
+Categories=Updates;X-XFCE;X-Xfce-Toplevel;
+Exec=/opt/OSINT-Scripts/updates.sh
+Icon=/usr/share/OSINT-Icons/updates.png
+Terminal=true

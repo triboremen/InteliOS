@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Youtube-DLP
+Categories=Videos;
+Exec=/opt/OSINT-Scripts/yt-dlp/menu-yt-dlp.sh
+Icon=/usr/share/OSINT-Icons/youtube.png
+Terminal=false

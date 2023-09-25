@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ezytdl
+Comment=Advanced electron-based frontend for yt-dlp.
+Exec=/opt/ezytdl-linux.AppImage %u
+Icon=/usr/share/OSINT-Icons/ezytdl.png
+Path=
+Terminal=false
+StartupNotify=false
+Categories=Videos;

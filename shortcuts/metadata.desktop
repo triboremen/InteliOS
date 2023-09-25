@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Extraer/Eliminar Metadatos    
+Categories=Metadatos;
+Exec=/opt/OSINT-Scripts/metadata.sh
+Icon=/usr/share/OSINT-Icons/metadata.png
+Terminal=false
