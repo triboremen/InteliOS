@@ -37,9 +37,34 @@ Inspirado por los scripts de Michael Bazzell, decidí llevarlos un paso más all
 Estas aplicaciones están gestionadas por el programa [AM](https://github.com/ivan-hc/AM-Application-Manager). Para actualizarlos, hay que ejecutar el comando `am -u`. De todas maneras, está contenido en el script Updates.
 
 # Ubicación de los archivos importantes
-Los scripts de las GUI están en `/opt/OSINT-Scripts`.
-Las utilidades de consola están en `/usr/bin`.
-Buena parte de las herramientas están escritas en Python. Éstas están contenidas en entornos virtuales, ubicados en `/virtualenvs`.
-Los iconos de las herramientas están en `/usr/share/OSINT-Icons`.
-Todos los accesos directos están almacenados en `/usr/share/applications`.
-El navegador TOR se encuentra en `$HOME/tor-browser` o `/etc/skel/tor-browser`.
+Los scripts de las GUI están en `/opt/OSINT-Scripts`. <br />
+Las utilidades de consola están en `/usr/bin`. <br />
+Buena parte de las herramientas están escritas en Python. Éstas están contenidas en entornos virtuales, ubicados en `/virtualenvs`. <br />
+Los iconos de las herramientas están en `/usr/share/OSINT-Icons`. <br />
+Todos los accesos directos están almacenados en `/usr/share/applications`. <br />
+El navegador TOR se encuentra en `$HOME/tor-browser` o `/etc/skel/tor-browser`. <br />
+
+# Instalación
+## Descargar ISO
+
+## Crear ISO con CUBIC
+**IMPORTANTE**: Este programa sólo funciona en Ubuntu. <br />
+Clona el repositorio. <br />
+`git clone github.com/triboremen/InteliOS`
+
+Descarga una imagen de Xubuntu desde [aquí](https://xubuntu.org/download/). <br />
+Crea una nueva carpeta (Ej: Cubic-InteliOS) y guarda ahí la iso de Xubuntu. <br />
+
+Descarga Cubic. <br />
+`sudo apt-add-repository universe` <br />
+`sudo apt-add-repository ppa:cubic-wizard/release` <br />
+`sudo apt update` <br />
+`sudo apt install --no-install-recommends cubic` <br />
+
+Abre Cubic y selecciona la carpeta que creaste anteriormente. <br />
+En el siguiente menú selecciona la imagen de Xubuntu y rellena el resto de campos cómo prefieras. <br />
+Una vez termine de prepararse el entorno, arrastra la carpeta del repositorio a la consola de Cubic y acepta la copia. <br />
+Ejecuta el script para crear la iso de InteliOS: <br />
+`cd InteliOS` <br />
+`./Instalacion.sh` <br />
+Cuando termine, dale a "Next" hasta que prepare la ISO. Una vez terminado el proceso, en la carpeta del proyecto tendrás la imagen ISO lista para flashear en un pendrive o en una máquina virtual.
