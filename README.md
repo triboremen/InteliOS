@@ -1,6 +1,7 @@
 # InteliOS
-ISO personalizada de Xubuntu para realizar OSINT. 
-Inspirado por los scripts de Michael Bazzell, decidí llevarlos un paso más allá y crear unas GUI más completas usando [yad](https://github.com/v1cont/yad).
+
+ISO personalizada de Xubuntu para realizar OSINT. <br />
+Inspirado por los scripts de Michael Bazzell, llevarlos un paso más allá y crear unas GUI más completas usando [yad](https://github.com/v1cont/yad).
 
 # Herramientas incluidas
 - Updates: Script para actualizar el sistema y el resto de herramientas
