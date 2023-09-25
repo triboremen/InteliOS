@@ -41,6 +41,8 @@ Inspirado por los scripts de Michael Bazzell, llevarlos un paso más allá y cre
 Estas aplicaciones están gestionadas por el programa [AM](https://github.com/ivan-hc/AM-Application-Manager). Para actualizarlos, hay que ejecutar el comando `am -u`. De todas maneras, está contenido en el script Updates.
 
 # Instalación
+**IMPORTANTE** A la hora de instalar la ISO, debes seleccionar ESPAÑOL como idioma del sistema. De lo contrario, los scripts no funcionarán.
+
 ## Descargar ISO
 Descarga directamente la iso desde [aquí](https://mega.nz/file/F3E0iZqZ#bH5Q7X5Gz6whfarmXTl07yG7tOsd392HPrlj0jzpOtI) <br />
 
