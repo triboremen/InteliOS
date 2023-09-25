@@ -72,6 +72,10 @@ Ejecuta el script para crear la iso de InteliOS: <br />
 `./Instalacion.sh` <br />
 Cuando termine, dale a "Next" hasta que prepare la ISO. Una vez terminado el proceso, en la carpeta del proyecto tendrás la imagen ISO lista para flashear en un pendrive o en una máquina virtual.<br />
 
+# ¿Por qué?
+El PC que usaba antes se me rompió y me vi obligado a utilizar uno de bajas prestaciones que no podía manejar máquinas virtuales. <br />
+Como sabía que tardaría en conseguir un buen ordenador, si quería seguir haciendo OSINT la única manera que tenía era creando una iso customizada. <br />
+
 # Licencias
 Este proyecto está cubierto por la licencia MIT. <br />
 Todos los iconos utilizados en este proyecto se han obtenido de [flaticon.com](flaticon.com)
