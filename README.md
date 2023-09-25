@@ -1,6 +1,6 @@
 # InteliOS
 ![intelios1](./intelios1.png)
-![intelios2](https://github.com/triboremen/InteliOS/assets/145564766/a8289ae3-10bb-4cfd-a239-73eedba74c28)
+![intelios2](./intelios2.png)
 
 
 ISO personalizada de Xubuntu para realizar OSINT. <br />
