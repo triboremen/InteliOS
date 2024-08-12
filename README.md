@@ -44,7 +44,7 @@ Estas aplicaciones están gestionadas por el programa [AM](https://github.com/iv
 **IMPORTANTE** A la hora de instalar la ISO, debes seleccionar ESPAÑOL como idioma del sistema. De lo contrario, los scripts no funcionarán.
 
 ## Descargar ISO
-Descarga directamente la iso desde [aquí](https://mega.nz/file/F3E0iZqZ#bH5Q7X5Gz6whfarmXTl07yG7tOsd392HPrlj0jzpOtI) <br />
+Descarga directamente la iso desde [aquí](https://mega.nz/file/wvNnhJQZ#BMmCw3bElQ698FglkNCSfwrQssGtwKHvzVLf8xLjC78) <br />
 
 Flashéala en un pendrive o una máquina virtual.
 
